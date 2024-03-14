@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surya-listener-cse
+- 👋 Hi, I’m Surya 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning full stack development 
 - 💞️ I’m looking to collaborate on ...
